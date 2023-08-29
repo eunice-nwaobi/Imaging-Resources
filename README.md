@@ -10,3 +10,4 @@
 7. [Clinical MR Imaging and Physics: A Tutorial](https://github.com/eunice-nwaobi/MDSC689_01/blob/main/%20Clinical%20MR%20Imaging%20and%20Physics:%20A%20Tutorial.pdf)
 8. [Foundations of Biomedical Ultrasound](https://archive.org/details/foundationsofbio0000unse/page/n9/mode/2up)
 9. [Christensen's physics of diagnostic radiology](https://archive.org/details/christensensphys0000curr)
+10. [The physics of diagnostic imaging](https://archive.org/details/physicsofdiagnos0000dows)
