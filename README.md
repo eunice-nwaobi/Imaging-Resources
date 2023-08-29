@@ -12,3 +12,5 @@
 9. [Christensen's physics of diagnostic radiology](https://archive.org/details/christensensphys0000curr)
 10. [The physics of diagnostic imaging](https://archive.org/details/physicsofdiagnos0000dows)
 11. [Medical Imaging Physics](https://github.com/eunice-nwaobi/MDSC689_01/blob/main/Medical%20Imaging%20Physics%20-%202002%20-%20Hendee.pdf)
+12. []()
+13. [Diagnostic Ultrasound: Physics and Equipment]()
