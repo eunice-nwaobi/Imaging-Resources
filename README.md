@@ -9,3 +9,4 @@
 6. [Physics in Nuclear Medicine](https://www-clinicalkey-com.ezproxy.lib.ucalgary.ca/#!/browse/book/3-s2.0-C20090516352)
 7. [Clinical MR Imaging and Physics: A Tutorial](https://github.com/eunice-nwaobi/MDSC689_01/blob/main/%20Clinical%20MR%20Imaging%20and%20Physics:%20A%20Tutorial.pdf)
 8. [Foundations of Biomedical Ultrasound]()
+9. []()
