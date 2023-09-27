@@ -15,4 +15,4 @@
 12. []()
 13. [Diagnostic Ultrasound: Physics and Equipment](https://pdfhost.io/edit?doc=27329863-5442-45cd-82e7-07583de88ea0)
 14. [The physics of radiology](https://archive.org/details/physicsofradiolo0000unse)
-15. [ How does MRI work?: An Introduction to the Physics and Function of Magnetic Resonance Imaging]([https://github.com/eunice-nwaobi/MDSC689_01/blob/main/%20How%20does%20MRI%20work%3F:%20An%20Introduction%20to%20the%20Physics%20and%20Function%20of%20Magnetic%20Resonance%20Imaging.pdf](https://pdfhost.io/edit?doc=e91d4916-8180-47e2-bc60-c1355ac8d00b)https://pdfhost.io/edit?doc=e91d4916-8180-47e2-bc60-c1355ac8d00b)
+15. [ How does MRI work?: An Introduction to the Physics and Function of Magnetic Resonance Imaging](https://pdfhost.io/edit?doc=e91d4916-8180-47e2-bc60-c1355ac8d00b)
