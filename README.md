@@ -12,7 +12,7 @@
 9. [Christensen's physics of diagnostic radiology](https://archive.org/details/christensensphys0000curr)
 10. [The physics of diagnostic imaging](https://archive.org/details/physicsofdiagnos0000dows)
 11. [Medical Imaging Physics](https://pdfhost.io/edit?doc=6f6e3224-8433-4e01-8ee9-224bafed7d67)
-12. []()
+12. [Principles of Magnetic Resonance Imaging]()
 13. [Diagnostic Ultrasound: Physics and Equipment](https://pdfhost.io/edit?doc=27329863-5442-45cd-82e7-07583de88ea0)
 14. [The physics of radiology](https://archive.org/details/physicsofradiolo0000unse)
 15. [ How does MRI work?: An Introduction to the Physics and Function of Magnetic Resonance Imaging](https://pdfhost.io/edit?doc=e91d4916-8180-47e2-bc60-c1355ac8d00b)
